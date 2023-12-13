@@ -1,6 +1,6 @@
-# Bitcoin Proof of Work Sample
-
 <img width="250" src="extras/images/bitcoin-logo.png" alt="Bitcoin Logo">
+
+# Bitcoin Proof of Work Sample
 
 This is a simple project that shows how Bitcoin proof of work really works (PoW).
 
