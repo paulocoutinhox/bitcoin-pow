@@ -2,6 +2,8 @@
 
 This is a simple project that shows how Bitcoin proof of work really works (PoW).
 
+[![Build](https://github.com/paulocoutinhox/bitcoin-pow/actions/workflows/build.yml/badge.svg)](https://github.com/paulocoutinhox/bitcoin-pow/actions/workflows/build.yml)
+
 ## Requirements
 
 ```
