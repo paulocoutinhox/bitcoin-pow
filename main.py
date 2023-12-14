@@ -20,7 +20,7 @@ def get_current_bitcoin_difficulty():
 def proof_of_work(header, difficulty_bits):
     # Calculate the difficulty target based on difficulty bits
     target = 2 ** (256 - difficulty_bits)
-    print(f"Difficulty Bits: {difficulty_bits}")
+    print(f"Difficulty bits: {difficulty_bits}")
     print(f"Target: {target}")
 
     for nonce in range(sys.maxsize):
