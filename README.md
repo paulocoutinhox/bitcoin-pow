@@ -21,10 +21,11 @@ python3 main.py
 You will see something like this:
 
 ```
-Difficulty Bits: 10
-Target: 113078212145816597093331040047546785012958969400039613319782796882727665664
-Success with nonce: 264
-Hash is: 000445a9d2689d8ecb1c85e5240a485cfda1fb3a16794c2d9fd22bc780a254d6
+Difficulty Bits: 25
+Target: 3450873173395281893717377931138512726225554486085193277581262111899648
+Success with nonce: 16659493
+Hash is: 00000003f5c7a6abafd59697b8d5ce1f196196e99adaeb00885d274925833445
+Processing time: 00:00:11
 ```
 
 If you want real Bitcoin difficulty number, set `use_bitcoin_difficulty` to `True` (it will take hours or days to find).

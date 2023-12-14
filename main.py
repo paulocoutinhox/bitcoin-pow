@@ -48,7 +48,7 @@ use_bitcoin_difficulty = False
 if use_bitcoin_difficulty:
     difficulty_bits = get_current_bitcoin_difficulty()
 else:
-    difficulty_bits = 30
+    difficulty_bits = 25
 
 start_time = datetime.now()
 proof_of_work(header, difficulty_bits)
