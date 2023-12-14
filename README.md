@@ -21,7 +21,7 @@ python3 main.py
 You will see something like this:
 
 ```
-Difficulty Bits: 25
+Difficulty bits: 25
 Target: 3450873173395281893717377931138512726225554486085193277581262111899648
 Success with nonce: 16659493
 Hash is: 00000003f5c7a6abafd59697b8d5ce1f196196e99adaeb00885d274925833445
