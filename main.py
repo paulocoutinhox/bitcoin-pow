@@ -34,6 +34,7 @@ def proof_of_work(header, difficulty_bits):
         if hash_int < target:
             print(f"Success with nonce: {nonce}")
             print(f"Hash is: {hash_result}")
+            print(f"Hash int is: {hash_int}")
             return (hash_result, nonce)
 
     print("Failure after trying all nonces")
